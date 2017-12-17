@@ -1,12 +1,14 @@
 ## Download
 
 ```bash
-ffmpeg -i http://zzcs4.ott.henancatv.com/mlive/172_30_100_74_/cdn_proxy/os_ott_henancatv_com/live/JSH/3.m3u8  -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
+ffmpeg -i http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8 -c:v copy -c:a copy -bsf:a aac_adtstoasc %T.mp4
 ```
 
 
 
 ## M3U8
+
+[TOC]
 
 ### 江苏卫视
 1. **540P**: 电影

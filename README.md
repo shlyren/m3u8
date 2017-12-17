@@ -2,7 +2,7 @@
 
 ### `.m3u8`是什么文件?
 
-自己Google/Baidu, 关键字 `HLS`, `Apple`
+自己Google/Baidu, 关键字 `HLS`, `m3u8`
 
 https://developer.apple.com/streaming/
 
@@ -10,7 +10,7 @@ https://developer.apple.com/streaming/
 
 ### 如何打开`m3u8`文件?
 
-#### 一. Apple平台设备(Mac, iPhone, iPad, iPod)
+#### 一. Apple平台设备
 
 最完美的方法就是用自带的Safari浏览器打开,
 
