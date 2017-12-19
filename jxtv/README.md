@@ -25,7 +25,7 @@
 1. 移动端(android, ios): 直接手机自带浏览器
 2. Mac: Safari
 3. Windows: 
-	- Chrome(HLS插件)
-	- PotPlayer 软件
-	- Ps: Windows还是直接用flash看吧
+  - Chrome(HLS插件)
+  - PotPlayer 软件
+  - Ps: Windows还是直接用flash看吧
 
