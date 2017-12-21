@@ -22,7 +22,7 @@
 
 ## 使用教程
 1. 移动端(android, ios): 直接手机自带浏览器
-2. Mac: Safari
+2. MacOs: Safari
 3. Windows: 
   - Chrome(HLS插件)
   - PotPlayer 软件
