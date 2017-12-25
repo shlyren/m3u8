@@ -13,6 +13,7 @@
 5. http://183.252.176.41/PLTV/88888888/224/3221225930/index.m3u8
 6. http://183.252.176.42/PLTV/88888888/224/3221225930/index.m3u8
 7. http://183.252.176.43/PLTV/88888888/224/3221225930/index.m3u8
+8. http://183.252.176.35//PLTV/88888888/224/3221225930/index.m3u8
 
 ### 高清720
 1. http://zzcs4.ott.henancatv.com/mlive/172_30_100_74_/cdn_proxy/os_ott_henancatv_com/live/JSH/3.m3u8

@@ -35,6 +35,7 @@ ffmpeg -i http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8 -c:v copy -c:a
 ### 浙江卫视
 1. **720P**: 
    - http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/3.m3u8 // download
+   - http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
 2. **1080**:
    - http://ivi.bupt.edu.cn/hls/zjhd.m3u8
    - http://183.251.61.207/PLTV/88888888/224/3221225934/index.m3u8
