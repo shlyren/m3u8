@@ -5,18 +5,19 @@
 刚打开画面可能会卡主, 等待片刻即可
 
 
-### 高清1080 
-1. http://ivi.bupt.edu.cn/hls/jshd.m3u8 (北邮,教育网)
-2. http://ivi.bupt.edu.cn/player.html?channel=jshd (北邮,教育网, for pc, 无需flash)
-3. http://183.252.176.10/PLTV/88888888/224/3221225930/index.m3u8
-4. http://183.252.176.40/PLTV/88888888/224/3221225930/index.m3u8
-5. http://183.252.176.41/PLTV/88888888/224/3221225930/index.m3u8
-6. http://183.252.176.42/PLTV/88888888/224/3221225930/index.m3u8
-7. http://183.252.176.43/PLTV/88888888/224/3221225930/index.m3u8
-8. http://183.252.176.35//PLTV/88888888/224/3221225930/index.m3u8
+### 高清HD 
+1. http://183.252.176.40/PLTV/88888888/224/3221225930/index.m3u8
+2. http://183.252.176.10/PLTV/88888888/224/3221225930/index.m3u8
+3. http://183.252.176.42/PLTV/88888888/224/3221225930/index.m3u8
+4. http://183.252.176.35//PLTV/88888888/224/3221225930/index.m3u8
+5. http://183.252.176.43/PLTV/88888888/224/3221225930/index.m3u8
+6. http://183.252.176.41/PLTV/88888888/224/3221225930/index.m3u8
+7. http://ivi.bupt.edu.cn/hls/jshd.m3u8 (北邮,教育网)
+8. http://ivi.bupt.edu.cn/player.html?channel=jshd (北邮,教育网, for pc, 无需flash)
 
-### 高清720
-1. http://zzcs4.ott.henancatv.com/mlive/172_30_100_74_/cdn_proxy/os_ott_henancatv_com/live/JSH/3.m3u8
+
+
+
 
 ### 渣渣画质, 可忽略
 1. http://222.191.24.6:6610/2/2/ch00000090990000001302/index.m3u8?ispcode=3
