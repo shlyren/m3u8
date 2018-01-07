@@ -12,8 +12,9 @@
 4. http://183.252.176.35//PLTV/88888888/224/3221225930/index.m3u8
 5. http://183.252.176.43/PLTV/88888888/224/3221225930/index.m3u8
 6. http://183.252.176.41/PLTV/88888888/224/3221225930/index.m3u8
-7. http://ivi.bupt.edu.cn/hls/jshd.m3u8 (北邮,教育网)
-8. http://ivi.bupt.edu.cn/player.html?channel=jshd (北邮,教育网, for pc, 无需flash)
+7. http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8
+8. http://ivi.bupt.edu.cn/hls/jshd.m3u8 (北邮,教育网)
+9. http://ivi.bupt.edu.cn/player.html?channel=jshd (北邮,教育网, for pc, 无需flash)
 
 
 

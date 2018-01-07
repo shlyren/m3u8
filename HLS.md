@@ -1,7 +1,7 @@
 ## Download
 
 ```bash
-ffmpeg -i http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8 -c:v copy -c:a copy -bsf:a aac_adtstoasc %T.mp4
+ffmpeg -i https://apd-b941bc39eeae9dfc71d20715a384399c.v.smtcdns.com/varietyts.tc.qq.com/Aa8MhgXVFpS0J_otD_95hBLfr29XXCFqzHZx4Rkvk_UA/KIeaOt-3KNd97k1rsBnfIPg8RTlj5lRclfZCZExCkUU0GOEzubJqGn5gVFqxb239GzRNSbC6OG4AEzGn2eMvIQHz1qAISVqq9AdwD6yrayPy2LWQ-qR4whqZ4smWF4EJ3icDPlq7rBe72vTvyT239xJC91JnDa3V/m0025n0v54z.321004.ts.m3u8?ver=4 -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
 ```
 
 
@@ -34,7 +34,6 @@ ffmpeg -i http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8 -c:v copy -c:a
 
 ### 浙江卫视
 1. **720P**: 
-   - http://zzcs2.ott.henancatv.com/mlive/172_30_100_77_/cdn_proxy/os_ott_henancatv_com/live/ZJH/3.m3u8 // download
    - http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
 2. **1080**:
    - http://ivi.bupt.edu.cn/hls/zjhd.m3u8
