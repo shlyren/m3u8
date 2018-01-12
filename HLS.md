@@ -1,7 +1,7 @@
 ## Download
 
 ```bash
-ffmpeg -i https://apd-b941bc39eeae9dfc71d20715a384399c.v.smtcdns.com/varietyts.tc.qq.com/Aa8MhgXVFpS0J_otD_95hBLfr29XXCFqzHZx4Rkvk_UA/KIeaOt-3KNd97k1rsBnfIPg8RTlj5lRclfZCZExCkUU0GOEzubJqGn5gVFqxb239GzRNSbC6OG4AEzGn2eMvIQHz1qAISVqq9AdwD6yrayPy2LWQ-qR4whqZ4smWF4EJ3icDPlq7rBe72vTvyT239xJC91JnDa3V/m0025n0v54z.321004.ts.m3u8?ver=4 -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
+ffmpeg -i http://pl-ali.youku.com/playlist/m3u8?vid=XMTE1NzQ3NDA4&type=mp4&ups_client_netip=b79d4091&ups_ts=1515327419&utid=nl5LEhNnDkECAXPI5cZg2uTc&ccode=0502&psid=bc5afb0833d75a57ad992ebf47aa9e14&ups_userid=1035101839&ups_ytid=1035101839&duration=2544&expire=18000&ups_key=b14e10106b0fa28e1358a7aaafb0a7eb -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
 ```
 
 
