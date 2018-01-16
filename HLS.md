@@ -1,7 +1,7 @@
 ## Download
 
 ```bash
-ffmpeg -i http://pl-ali.youku.com/playlist/m3u8?vid=XMTE1NzQ3NDA4&type=mp4&ups_client_netip=b79d4091&ups_ts=1515327419&utid=nl5LEhNnDkECAXPI5cZg2uTc&ccode=0502&psid=bc5afb0833d75a57ad992ebf47aa9e14&ups_userid=1035101839&ups_ytid=1035101839&duration=2544&expire=18000&ups_key=b14e10106b0fa28e1358a7aaafb0a7eb -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
+ffmpeg -i http://acm.gg/jade.m3u8 -c:v copy -c:a copy -bsf:a aac_adtstoasc 1.mp4
 ```
 
 

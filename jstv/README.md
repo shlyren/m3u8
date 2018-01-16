@@ -15,6 +15,7 @@
 7. http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8
 8. http://ivi.bupt.edu.cn/hls/jshd.m3u8 (北邮,教育网)
 9. http://ivi.bupt.edu.cn/player.html?channel=jshd (北邮,教育网, for pc, 无需flash)
+10. 4K, rtmp://202.195.240.8:1935/iptv/jshd
 
 
 
