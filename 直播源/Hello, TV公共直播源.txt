@@ -22,7 +22,9 @@ CCTV12高清,http://hellotv-iptv.uwp.ac.cn/live/cctv12hd.m3u8
 CCTV14高清,http://hellotv-iptv.uwp.ac.cn/live/cctv14hd.m3u8
 
 卫视高清
-安徽卫视高清,http://hellotv-iptv.uwp.ac.cn/live/ahwshd.m3u8北京卫视高清,http://hellotv-iptv.uwp.ac.cn/live/bjwshd.m3u8
+安徽卫视高清,http://hellotv-iptv.uwp.ac.cn/live/ahwshd.m3u8
+北京卫视高清,http://hellotv-iptv.uwp.ac.cn/live/bjwshd.m3u8
+
 东方卫视高清,http://hellotv-iptv.uwp.ac.cn/live/dfwshd.m3u8
 东南卫视高清,http://hellotv-iptv.uwp.ac.cn/live/dnwshd.m3u8
 广东卫视高清,http://hellotv-iptv.uwp.ac.cn/live/gdwshd.m3u8
