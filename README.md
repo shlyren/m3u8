@@ -32,3 +32,7 @@ Safari打开, 第三方(Chrome/Frifox)需要安装插件(HLS)
 #### 三. Windows
 1. Chrome/Frifox: 可安装`HLS`的插件
 2. 也有相关软件可以打开:比如 PotPlayer
+
+
+### 时效说明
+直播源具有时效性,如果无法打开说明该源已失效
