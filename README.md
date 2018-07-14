@@ -1,9 +1,4 @@
 
-
- 江西卫视(1080): http://223.110.245.171/PLTV/3/224/3221225536/index.m3u8 南京移动
-
-
-
 ### `.m3u8`是什么文件?
 
 可以理解为是苹果设备专用的视频播放文件
@@ -11,12 +6,6 @@
 自己Google/Baidu, 关键字 `HLS`, `m3u8`
 
 https://developer.apple.com/streaming/
-
-
-
-
-
-
 
 
 
